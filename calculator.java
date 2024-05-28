@@ -8,4 +8,8 @@ class calculator{
         ans-=b;
         return ans;
     }
+    public int mul(int c,int d){
+        ans = c*d;
+        return ans;
+    }
 }
