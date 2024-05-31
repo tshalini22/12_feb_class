@@ -12,4 +12,8 @@ class calculator{
         ans = c*d;
         return ans;
     }
+    public int div(int a){
+        ans = a/2;
+        return ans;
+    }
 }
